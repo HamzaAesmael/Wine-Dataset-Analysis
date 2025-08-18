@@ -1,6 +1,7 @@
 # Wine Dataset Analysis
 
-![Example Visualization](images/proline_vs_flavanoids.png)  
+!Figure_1.png
+
 
 Exploratory analysis of sklearn's wine dataset, including:
 - Class distribution
